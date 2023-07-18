@@ -1,0 +1,3 @@
+USE [UATO3UtilityDB]
+SELECT DISTINCT Var_Id
+FROM Execution;
